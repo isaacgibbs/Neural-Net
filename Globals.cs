@@ -1,4 +1,9 @@
-﻿using System;
+/*
+    Isaac A. Gibbs
+    3/25/2014
+    Neural Net
+*/
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;

@@ -1,4 +1,9 @@
-﻿namespace Neural_Net
+/*
+    Isaac A. Gibbs
+    6/6/2015
+    Neural Net
+*/
+namespace Neural_Net
 {
     partial class Form1
     {

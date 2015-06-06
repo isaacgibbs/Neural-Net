@@ -1,9 +1,8 @@
-﻿/*
- * Isaac Gibbs 
- * Neural Net v0.3
- * CIS 310
- * 3/25/2014
- */
+/*
+    Isaac A. Gibbs
+    3/25/2014
+    Neural Net
+*/
 
 using System;
 using System.Collections.Generic;

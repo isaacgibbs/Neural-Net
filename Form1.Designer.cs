@@ -1,6 +1,6 @@
 /*
     Isaac A. Gibbs
-    6/6/2015
+    3/25/2014
     Neural Net
 */
 namespace Neural_Net

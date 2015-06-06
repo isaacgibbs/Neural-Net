@@ -1,0 +1,49 @@
+S:\Visual Studio 2012\Projects\Neural Net\Neural Net\bin\Debug\Neural Net.exe.config
+E:\Downloads\Neural Net\Neural Net\Neural Net\bin\Debug\Neural Net.exe.config
+E:\Downloads\Neural Net\Neural Net\Neural Net\bin\Debug\Neural Net.exe
+E:\Downloads\Neural Net\Neural Net\Neural Net\bin\Debug\Neural Net.pdb
+E:\Downloads\Neural Net\Neural Net\Neural Net\obj\Debug\Neural_Net.Form1.resources
+E:\Downloads\Neural Net\Neural Net\Neural Net\obj\Debug\Neural_Net.Properties.Resources.resources
+E:\Downloads\Neural Net\Neural Net\Neural Net\obj\Debug\Neural Net.csproj.GenerateResource.Cache
+E:\Downloads\Neural Net\Neural Net\Neural Net\obj\Debug\Neural Net.exe
+E:\Downloads\Neural Net\Neural Net\Neural Net\obj\Debug\Neural Net.pdb
+E:\Downloads\Neural Net\Neural Net\Neural Net\obj\Debug\Neural Net.csprojResolveAssemblyReference.cache
+S:\Isaac\Neural_Net Isaac_Gibbs CIS_310\Neural Net\bin\Debug\Neural Net.exe.config
+S:\Isaac\Neural_Net Isaac_Gibbs CIS_310\Neural Net\obj\Debug\Neural Net.exe
+S:\Isaac\Neural_Net Isaac_Gibbs CIS_310\Neural Net\obj\Debug\Neural Net.pdb
+S:\Isaac\Neural_Net Isaac_Gibbs CIS_310\Neural Net\bin\Debug\Neural Net.exe
+S:\Isaac\Neural_Net Isaac_Gibbs CIS_310\Neural Net\bin\Debug\Neural Net.pdb
+S:\Isaac\Neural_Net Isaac_Gibbs CIS_310\Neural Net\obj\Debug\Neural Net.csprojResolveAssemblyReference.cache
+S:\Isaac\Neural_Net Isaac_Gibbs CIS_310\Neural Net\obj\Debug\Neural_Net.Form1.resources
+S:\Isaac\Neural_Net Isaac_Gibbs CIS_310\Neural Net\obj\Debug\Neural_Net.Properties.Resources.resources
+S:\Isaac\Neural_Net Isaac_Gibbs CIS_310\Neural Net\obj\Debug\Neural Net.csproj.GenerateResource.Cache
+E:\Downloads\Neural_Net Isaac_Gibbs CIS_310 0.1\Neural_Net Isaac_Gibbs CIS_310\Neural Net\obj\Debug\Neural_Net.Form1.resources
+E:\Downloads\Neural_Net Isaac_Gibbs CIS_310 0.1\Neural_Net Isaac_Gibbs CIS_310\Neural Net\obj\Debug\Neural_Net.Properties.Resources.resources
+E:\Downloads\Neural_Net Isaac_Gibbs CIS_310 0.1\Neural_Net Isaac_Gibbs CIS_310\Neural Net\obj\Debug\Neural Net.csproj.GenerateResource.Cache
+E:\Downloads\Neural_Net Isaac_Gibbs CIS_310 0.1\Neural_Net Isaac_Gibbs CIS_310\Neural Net\bin\Debug\Neural Net.exe.config
+E:\Downloads\Neural_Net Isaac_Gibbs CIS_310 0.1\Neural_Net Isaac_Gibbs CIS_310\Neural Net\bin\Debug\Neural Net.exe
+E:\Downloads\Neural_Net Isaac_Gibbs CIS_310 0.1\Neural_Net Isaac_Gibbs CIS_310\Neural Net\bin\Debug\Neural Net.pdb
+E:\Downloads\Neural_Net Isaac_Gibbs CIS_310 0.1\Neural_Net Isaac_Gibbs CIS_310\Neural Net\obj\Debug\Neural Net.exe
+E:\Downloads\Neural_Net Isaac_Gibbs CIS_310 0.1\Neural_Net Isaac_Gibbs CIS_310\Neural Net\obj\Debug\Neural Net.pdb
+E:\Downloads\Neural_Net Isaac_Gibbs CIS_310 0.1\Neural_Net Isaac_Gibbs CIS_310\Neural Net\obj\Debug\Neural Net.csprojResolveAssemblyReference.cache
+C:\Users\Gryph\Desktop\Neural_Net Isaac_Gibbs CIS_310\Neural Net\bin\Debug\Neural Net.exe.config
+C:\Users\Gryph\Desktop\Neural_Net Isaac_Gibbs CIS_310\Neural Net\bin\Debug\Neural Net.exe
+C:\Users\Gryph\Desktop\Neural_Net Isaac_Gibbs CIS_310\Neural Net\bin\Debug\Neural Net.pdb
+C:\Users\Gryph\Desktop\Neural_Net Isaac_Gibbs CIS_310\Neural Net\obj\Debug\Neural_Net.Form1.resources
+C:\Users\Gryph\Desktop\Neural_Net Isaac_Gibbs CIS_310\Neural Net\obj\Debug\Neural_Net.Properties.Resources.resources
+C:\Users\Gryph\Desktop\Neural_Net Isaac_Gibbs CIS_310\Neural Net\obj\Debug\Neural Net.csproj.GenerateResource.Cache
+C:\Users\Gryph\Desktop\Neural_Net Isaac_Gibbs CIS_310\Neural Net\obj\Debug\Neural Net.exe
+C:\Users\Gryph\Desktop\Neural_Net Isaac_Gibbs CIS_310\Neural Net\obj\Debug\Neural Net.pdb
+C:\Users\Gryph\Desktop\Neural_Net Isaac_Gibbs CIS_310\Neural Net\obj\Debug\Neural Net.csprojResolveAssemblyReference.cache
+G:\C# Projects\Neural_Net Isaac_Gibbs CIS_310\Neural Net\bin\Debug\Neural Net.exe.config
+G:\C# Projects\Neural_Net Isaac_Gibbs CIS_310\Neural Net\obj\Debug\Neural Net.exe
+G:\C# Projects\Neural_Net Isaac_Gibbs CIS_310\Neural Net\obj\Debug\Neural Net.pdb
+D:\Isaac Program History\Neural Net\Neural Net\bin\Debug\Neural Net.exe.config
+D:\Isaac Program History\Neural Net\Neural Net\obj\Debug\Neural Net.exe
+D:\Isaac Program History\Neural Net\Neural Net\obj\Debug\Neural Net.pdb
+D:\Isaac Program History\Neural Net\Neural Net\bin\Debug\Neural Net.exe
+D:\Isaac Program History\Neural Net\Neural Net\bin\Debug\Neural Net.pdb
+D:\Isaac Program History\Neural Net\Neural Net\obj\Debug\Neural Net.csprojResolveAssemblyReference.cache
+D:\Isaac Program History\Neural Net\Neural Net\obj\Debug\Neural_Net.Form1.resources
+D:\Isaac Program History\Neural Net\Neural Net\obj\Debug\Neural_Net.Properties.Resources.resources
+D:\Isaac Program History\Neural Net\Neural Net\obj\Debug\Neural Net.csproj.GenerateResource.Cache
